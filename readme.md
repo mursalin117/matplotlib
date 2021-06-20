@@ -17,7 +17,9 @@
 ![alt text](https://github.com/mursalin117/matplotlib/blob/master/image/fourth.jpg "Fig-4")Figure - 4
 
 6. [Default X-Points: Plotting without x-points](../blob/master/plotting-different-points.ipynb "click to go")
+
 ![alt text](https://github.com/mursalin117/matplotlib/blob/master/image/fifth.jpg "Fig-5")Figure - 5
 
 7. [Default Y-Points: Plotting without Y-points](../blob/master/plotting-different-points.ipynb "click to go")
+
 ![alt text](https://github.com/mursalin117/matplotlib/blob/master/image/sixth.jpg "Fig-6")Figure - 6
